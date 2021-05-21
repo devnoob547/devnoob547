@@ -1,8 +1,8 @@
-- 👋 Oi eu sou o @devnoob547
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I'm Daniel
+- 👀 I'm interested in learning JavaScript
+- 🌱 I'm currently learning HTML and CSS
+- 🎸 I love to play guitar 
+- 📖 I'm crazy for Jesus
 
 <!---
 devnoob547/devnoob547 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
