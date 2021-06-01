@@ -1,4 +1,5 @@
-- 👋 Hi, I'm Daniel
+# 👋 Hi, I'm Daniel
+
 - 👀 I'm interested in learning JavaScript
 - 🌱 I'm currently learning HTML and CSS
 - 🎸 I love to play guitar 
