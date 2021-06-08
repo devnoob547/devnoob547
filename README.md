@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Daniel
 
-- 👀 I'm interested in learning JavaScript, React, Python and C#
+- 👀 I'm interested in learning JavaScript, React, Python, SQL and C#
 - 🌱 I'm currently learning HTML and CSS
 - 🎸 I love to play guitar 
 - 📖 I'm crazy for Jesus
