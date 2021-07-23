@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Quiz Universal](https://github.com/devnoob547/devnoob547/edit/main/README.md)
 
-- 🌱 I’m currently learning **React, SQL, Js, Python and EJS**
+- 🌱 I’m currently learning **React, React native, SQL, Node.js Javascript, Typescript and Python**
 
-- 💬 Ask me about **HTML, CSS, SCSS**
+- 💬 Ask me about **HTML, CSS, SCSS, Javascript, Typescript**
 
 - ⚡ Fun fact **I always thought Java was JavaScript 🤣**
 
