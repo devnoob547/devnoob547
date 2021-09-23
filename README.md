@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 guy i'm devnoob547</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Quiz Universal](https://github.com/devnoob547/quiz-universal-v2)
+- 🔭 I’m currently working on [Quiz Universal](https://github.com/devnoob547/quiz-universal)
 
 - 🌱 I’m currently learning **React, TypeORM, Typescript, React Native, Javascript, Prisma e NextJs, Sqlite e etc...**
 
