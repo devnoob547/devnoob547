@@ -22,5 +22,3 @@
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devnoob547&show_icons=true&locale=en" alt="devnoob547" /></p>
 </p>
-
-<p align="center" style="margin: 30px 0;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devnoob547&show_icons=true&locale=en" alt="devnoob547" /></p>
