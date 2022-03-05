@@ -8,6 +8,8 @@
 - 💬 Ask me about **React, styled-components, express, sqlite, Primsa, Postgres, Taiwlindcss and etc...**
 
 - 📫 How to reach me **danielalvespessoa3006@gmail.com**
+ 
+- 12 years old 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
