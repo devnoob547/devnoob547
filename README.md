@@ -11,7 +11,7 @@
  
 - 13 years old 
 
-<div align="center">
+<div align="center" display="flex">
   <a href="https://github.com/devnoob547">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devnoob547&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnoob547&layout=compact&langs_count=7&theme=algolia"/>
